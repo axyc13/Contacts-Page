@@ -1,4 +1,4 @@
-# WDCC Contacts Page - React
+# Contacts Page - React
 
 This is a project developed with the help of the WDCC team at the University of Auckland. 
 
